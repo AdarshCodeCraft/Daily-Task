@@ -8,3 +8,4 @@
 <p>Delete Task ❌: Remove tasks that you no longer need or have completed.</p>
 <p>Interactive UI 💻: Responsive and accessible, ensuring a seamless experience.</p>
 <h3>📷 Screenshots</h3>
+<img src="Screenshot 2024-11-08 152624.png" alt="Img" />
